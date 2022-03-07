@@ -125,3 +125,5 @@ dist
 
 /.idea/
 /.idea/*.*
+/composer.lock
+/vendor/
